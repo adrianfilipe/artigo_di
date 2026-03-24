@@ -1,0 +1,58 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{Avellaneda \iflanguage{brazilian}{e}{and}
+  Lee}{2010}{avellaneda2010statistical}
+Avellaneda, M. \iflanguage{brazilian}{e}{and} Lee, J.-H.  \harvardyearleft
+  2010\harvardyearright .
+\newblock Statistical arbitrage in the us equities market, {\em Quantitative
+  Finance}, {\em 10}(7),~761--782.
+
+\harvarditem{{B3}}{2025}{b3manual}
+{B3}  \harvardyearleft 2025\harvardyearright .
+\newblock {M}anuais {O}peracionais - {B}alcão {B}3 | {B}3 --- b3.com.br,
+  \url{https://www.b3.com.br/pt\_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/}.
+\newblock [Accessed 01-03-2026].
+
+\harvarditem{Diebold \iflanguage{brazilian}{e}{and}
+  Li}{2006}{diebold2006forecasting}
+Diebold, F.~X. \iflanguage{brazilian}{e}{and} Li, C.  \harvardyearleft
+  2006\harvardyearright .
+\newblock Forecasting the term structure of government bond yields, {\em
+  Journal of Econometrics}, {\em 130}(2),~337--364.
+
+\harvarditem{Hagan \iflanguage{brazilian}{e}{and}
+  West}{2006}{hagan2006interpolation}
+Hagan, P.~S. \iflanguage{brazilian}{e}{and} West, G.  \harvardyearleft
+  2006\harvardyearright .
+\newblock Interpolation methods for curve construction, {\em Applied
+  Mathematical Finance}, {\em 13}(2),~89--129.
+
+\harvarditem{Litterman \iflanguage{brazilian}{e}{and}
+  Scheinkman}{1991}{litterman1991common}
+Litterman, R. \iflanguage{brazilian}{e}{and} Scheinkman, J.  \harvardyearleft
+  1991\harvardyearright .
+\newblock Common factors affecting bond returns, {\em Journal of fixed income},
+  pp.~54--61.
+
+\harvarditem{Nelson \iflanguage{brazilian}{e}{and}
+  Siegel}{1987}{nelson1987parsimonious}
+Nelson, C.~R. \iflanguage{brazilian}{e}{and} Siegel, A.~F.  \harvardyearleft
+  1987\harvardyearright .
+\newblock Parsimonious modeling of yield curves, {\em Journal of business},
+  pp.~473--489.
+
+\harvarditem{Svensson}{1994}{svensson1994estimating}
+Svensson, L.~E.  \harvardyearleft 1994\harvardyearright .
+\newblock Estimating and interpreting forward interest rates: Sweden 1992-1994.
+
+\harvarditem{Vasicek}{1977}{vasicek1977equilibrium}
+Vasicek, O.  \harvardyearleft 1977\harvardyearright .
+\newblock An equilibrium characterization of the term structure, {\em Journal
+  of financial economics}, {\em 5}(2),~177--188.
+
+\harvarditem{Wilmott}{2013}{wilmott2013paul}
+Wilmott, P.  \harvardyearleft 2013\harvardyearright .
+\newblock {\em Paul Wilmott introduces quantitative finance}, John Wiley \&
+  Sons.
+
+\end{thebibliography}
